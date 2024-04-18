@@ -1,6 +1,6 @@
 *.zip
 zips/
-Homework/holc_data/
+Homework/*.zip
 .ipynb_checkpoints/working_w_repos-checkpoint.ipynb
 Week2/.ipynb_checkpoints/W2_shapely-checkpoint.ipynb
 Week3/flood_2050.zip
